@@ -32,7 +32,7 @@ A web portal which helps Passengers to book tickets online from anywhere.The nam
 ### Customer Care 
 ![](screenshots/pic6.png)
 ### About Me
-![](screenshotspic8.png)
+![](screenshots/pic8.png)
  
 
 
