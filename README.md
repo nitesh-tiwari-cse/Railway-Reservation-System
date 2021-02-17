@@ -14,7 +14,7 @@ A web portal which helps Passengers to book tickets online from anywhere.The nam
  
 
 ### Home page of System
-![](screenshots/pic1.JPG)
+![](screenshots/pic1.PNG)
 ### Login Screen
 ![](screenshots/pic2.JPG)
 ### Analysis Form
