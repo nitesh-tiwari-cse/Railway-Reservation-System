@@ -24,7 +24,7 @@ A web portal which helps Passengers to book tickets online from anywhere.The nam
 ### Find Trains and Book Ticket
 ![](screenshots/pic4.png)
 ### Make Payment
-![](screenshots/pic9.png)
+![](screenshots/pic9.PNG)
 ### Contact From 
 ![](screenshots/pic5.png)
 ### Feed back Form
