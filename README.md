@@ -15,28 +15,25 @@ A web portal which helps Passengers to book tickets online from anywhere.The nam
 
 ### Home page of System
 ![](screenshots/pic1.png)
-### Login Screen
-![](screenshots/pic2.JPG)
-### Analysis Form
-![](screenshots/pic3.JPG)
-### Actual Prediction
-![](screenshots/pic4.JPG)
-### Analysis History
-![](screenshots/pic5.JPG)
-### Appointment History
-![](screenshots/pic6.JPG)
-### Booking Appointment
-![](screenshots/pic7.JPG)
-### Diet Plan
-![](screenshots/pic8.JPG)
-### Exercise Plan
-![](screenshots/pic9.JPG)
-### Doctor Login
-![](screenshots/pic10.JPG)
-### Admin Login
-![](screenshots/pic11.JPG)
-### Visualization
-![](screenshots/pic12.JPG)
+### Login Form
+![](screenshots/pic10.png)
+### Sign up Form
+![](screenshots/pic2.png)
+### Details List
+![](screenshots/pic3.png)
+### Find Trains and Book Ticket
+![](screenshots/pic4.png)
+### Make Payment
+![](screenshots/pic9.png)
+### Contact From 
+![](screenshots/pic5.png)
+### Feed back Form
+![](screenshots/pic7.png)
+### Customer Care 
+![](screenshots/pic6.png)
+### About Me
+![](screenshotspic8.png)
+ 
 
 
 
